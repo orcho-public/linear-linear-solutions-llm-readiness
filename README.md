@@ -1,4 +1,4 @@
-# Linear Linear Solutions – LLM Readiness Analysis
+# Linear Solutions – LLM Readiness Analysis
 
 This repository contains the full analysis of the `Linear Solutions` codebase.
 
